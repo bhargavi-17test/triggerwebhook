@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1687253786,,"wq!"
+|2,0,1687323618,,"wq!"
+:q
+|2,0,1687260390,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +27,262 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/playbook.yaml
-|4,48,1,0,1687253786,"~/playbook.yaml"
+'0  5  0  ~/inventory.yaml
+|4,48,5,0,1687323618,"~/inventory.yaml"
+'1  29  29  ~/app.js
+|4,49,29,29,1687268427,"~/app.js"
+'2  1  0  ~/deploy-webhook.yaml
+|4,50,1,0,1687267764,"~/deploy-webhook.yaml"
+'3  29  29  ~/app.js
+|4,51,29,29,1687263046,"~/app.js"
+'4  9  130  ~/server/app.js
+|4,52,9,130,1687262847,"~/server/app.js"
+'5  9  126  ~/server/app.js
+|4,53,9,126,1687262731,"~/server/app.js"
+'6  9  74  ~/server/app.js
+|4,54,9,74,1687260516,"~/server/app.js"
+'7  9  74  ~/server/app.js
+|4,55,9,74,1687260516,"~/server/app.js"
+'8  26  28  ~/server/app.js
+|4,56,26,28,1687260390,"~/server/app.js"
+'9  26  28  ~/server/app.js
+|4,57,26,28,1687260390,"~/server/app.js"
 
 # Jumplist (newest first):
--'  1  0  ~/playbook.yaml
-|4,39,1,0,1687253786,"~/playbook.yaml"
+-'  5  0  ~/inventory.yaml
+|4,39,5,0,1687323618,"~/inventory.yaml"
+-'  1  0  ~/inventory.yaml
+|4,39,1,0,1687323608,"~/inventory.yaml"
+-'  29  29  ~/app.js
+|4,39,29,29,1687268427,"~/app.js"
+-'  29  29  ~/app.js
+|4,39,29,29,1687268427,"~/app.js"
+-'  1  0  ~/app.js
+|4,39,1,0,1687268405,"~/app.js"
+-'  1  0  ~/app.js
+|4,39,1,0,1687268405,"~/app.js"
+-'  1  0  ~/deploy-webhook.yaml
+|4,39,1,0,1687267764,"~/deploy-webhook.yaml"
+-'  1  0  ~/deploy-webhook.yaml
+|4,39,1,0,1687267764,"~/deploy-webhook.yaml"
+-'  1  0  ~/deploy-webhook.yaml
+|4,39,1,0,1687267764,"~/deploy-webhook.yaml"
+-'  1  0  ~/deploy-webhook.yaml
+|4,39,1,0,1687267764,"~/deploy-webhook.yaml"
+-'  29  29  ~/app.js
+|4,39,29,29,1687263046,"~/app.js"
+-'  29  29  ~/app.js
+|4,39,29,29,1687263046,"~/app.js"
+-'  29  29  ~/app.js
+|4,39,29,29,1687263046,"~/app.js"
+-'  29  29  ~/app.js
+|4,39,29,29,1687263046,"~/app.js"
+-'  1  0  ~/app.js
+|4,39,1,0,1687263024,"~/app.js"
+-'  1  0  ~/app.js
+|4,39,1,0,1687263024,"~/app.js"
+-'  1  0  ~/app.js
+|4,39,1,0,1687263024,"~/app.js"
+-'  1  0  ~/app.js
+|4,39,1,0,1687263024,"~/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  130  ~/server/app.js
+|4,39,9,130,1687262847,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  126  ~/server/app.js
+|4,39,9,126,1687262731,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  9  74  ~/server/app.js
+|4,39,9,74,1687260516,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
+-'  26  28  ~/server/app.js
+|4,39,26,28,1687260483,"~/server/app.js"
 
 # History of marks within files (newest to oldest):
+
+> ~/inventory.yaml
+	*	1687323614	0
+	"	5	0
+	^	5	0
+	.	4	31
+	+	4	31
+
+> ~/app.js
+	*	1687268423	0
+	"	29	29
+	^	29	30
+	.	29	29
+	+	29	29
+
+> ~/deploy-webhook.yaml
+	*	1687267761	0
+	"	1	0
+	^	1	0
+	.	71	41
+	+	71	41
+
+> ~/server/app.js
+	*	1687262843	0
+	"	9	130
+	^	9	131
+	.	9	130
+	+	29	29
+	+	9	186
+	+	8	46
+	+	9	8
+	+	9	130
 
 > ~/playbook.yaml
 	*	1687253783	0
